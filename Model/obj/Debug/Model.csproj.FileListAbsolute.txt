@@ -1,0 +1,18 @@
+c:\users\kira\documents\visual studio 2013\Projects\SlottedNut\Model\bin\Debug\Model.dll
+c:\users\kira\documents\visual studio 2013\Projects\SlottedNut\Model\bin\Debug\Model.pdb
+c:\users\kira\documents\visual studio 2013\Projects\SlottedNut\Model\bin\Debug\DataOrganizer.dll
+c:\users\kira\documents\visual studio 2013\Projects\SlottedNut\Model\bin\Debug\DataOrganizer.pdb
+c:\users\kira\documents\visual studio 2013\Projects\SlottedNut\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+c:\users\kira\documents\visual studio 2013\Projects\SlottedNut\Model\obj\Debug\Model.dll
+c:\users\kira\documents\visual studio 2013\Projects\SlottedNut\Model\obj\Debug\Model.pdb
+C:\Users\kira\Documents\Visual Studio 2013\Projects\SlottedNut\Model\bin\Debug\MathLogic.dll
+C:\Users\kira\Documents\Visual Studio 2013\Projects\SlottedNut\Model\bin\Debug\MathLogic.pdb
+C:\Users\kira\slottednut\SlottedNut\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\kira\slottednut\SlottedNut\Model\obj\Debug\Model.dll
+C:\Users\kira\slottednut\SlottedNut\Model\bin\Debug\Model.dll
+C:\Users\kira\slottednut\SlottedNut\Model\bin\Debug\Model.pdb
+C:\Users\kira\slottednut\SlottedNut\Model\bin\Debug\DataOrganizer.dll
+C:\Users\kira\slottednut\SlottedNut\Model\bin\Debug\MathLogic.dll
+C:\Users\kira\slottednut\SlottedNut\Model\bin\Debug\DataOrganizer.pdb
+C:\Users\kira\slottednut\SlottedNut\Model\bin\Debug\MathLogic.pdb
+C:\Users\kira\slottednut\SlottedNut\Model\obj\Debug\Model.pdb

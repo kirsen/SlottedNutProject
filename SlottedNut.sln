@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataForm", "SlottedNut\DataForm.csproj", "{3677316C-B46C-4D9B-AEC4-141EFE0A88FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataOrganizer", "DataOrganizer\DataOrganizer.csproj", "{72B6C88E-89F6-4095-99F2-D280FAF572C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Manager", "Manager\Manager.csproj", "{E7F5BC22-8CFB-46F7-8674-C1D914B5BBDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{A6FA13C7-67B0-4EEB-A048-1DD1EBA1E558}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathLogic", "MathLogic\MathLogic.csproj", "{C4198A35-84E9-4DA9-9C66-77104EE78AD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlottedNutUnitTests", "SlottedNutUnitTests\SlottedNutUnitTests.csproj", "{ADB360A5-5A9D-4008-B0BA-CA3A586F9264}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3677316C-B46C-4D9B-AEC4-141EFE0A88FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3677316C-B46C-4D9B-AEC4-141EFE0A88FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3677316C-B46C-4D9B-AEC4-141EFE0A88FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3677316C-B46C-4D9B-AEC4-141EFE0A88FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72B6C88E-89F6-4095-99F2-D280FAF572C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72B6C88E-89F6-4095-99F2-D280FAF572C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72B6C88E-89F6-4095-99F2-D280FAF572C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72B6C88E-89F6-4095-99F2-D280FAF572C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7F5BC22-8CFB-46F7-8674-C1D914B5BBDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7F5BC22-8CFB-46F7-8674-C1D914B5BBDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7F5BC22-8CFB-46F7-8674-C1D914B5BBDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7F5BC22-8CFB-46F7-8674-C1D914B5BBDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6FA13C7-67B0-4EEB-A048-1DD1EBA1E558}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6FA13C7-67B0-4EEB-A048-1DD1EBA1E558}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6FA13C7-67B0-4EEB-A048-1DD1EBA1E558}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6FA13C7-67B0-4EEB-A048-1DD1EBA1E558}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4198A35-84E9-4DA9-9C66-77104EE78AD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4198A35-84E9-4DA9-9C66-77104EE78AD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4198A35-84E9-4DA9-9C66-77104EE78AD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4198A35-84E9-4DA9-9C66-77104EE78AD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADB360A5-5A9D-4008-B0BA-CA3A586F9264}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADB360A5-5A9D-4008-B0BA-CA3A586F9264}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADB360A5-5A9D-4008-B0BA-CA3A586F9264}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADB360A5-5A9D-4008-B0BA-CA3A586F9264}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

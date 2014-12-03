@@ -1,0 +1,34 @@
+C:\Users\kira\Documents\Visual Studio 2013\Projects\SlottedNut\SlottedNut\bin\Debug\SlottedNut.exe.config
+C:\Users\kira\Documents\Visual Studio 2013\Projects\SlottedNut\SlottedNut\obj\Debug\SlottedNut.exe
+C:\Users\kira\Documents\Visual Studio 2013\Projects\SlottedNut\SlottedNut\obj\Debug\SlottedNut.pdb
+C:\Users\kira\Documents\Visual Studio 2013\Projects\SlottedNut\SlottedNut\bin\Debug\SlottedNut.exe
+C:\Users\kira\Documents\Visual Studio 2013\Projects\SlottedNut\SlottedNut\bin\Debug\SlottedNut.pdb
+C:\Users\kira\Documents\Visual Studio 2013\Projects\SlottedNut\SlottedNut\bin\Debug\DataOrganizer.dll
+C:\Users\kira\Documents\Visual Studio 2013\Projects\SlottedNut\SlottedNut\bin\Debug\Manager.dll
+C:\Users\kira\Documents\Visual Studio 2013\Projects\SlottedNut\SlottedNut\bin\Debug\Model.dll
+C:\Users\kira\Documents\Visual Studio 2013\Projects\SlottedNut\SlottedNut\bin\Debug\MathLogic.dll
+C:\Users\kira\Documents\Visual Studio 2013\Projects\SlottedNut\SlottedNut\bin\Debug\DataOrganizer.pdb
+C:\Users\kira\Documents\Visual Studio 2013\Projects\SlottedNut\SlottedNut\bin\Debug\Manager.pdb
+C:\Users\kira\Documents\Visual Studio 2013\Projects\SlottedNut\SlottedNut\bin\Debug\Model.pdb
+C:\Users\kira\Documents\Visual Studio 2013\Projects\SlottedNut\SlottedNut\bin\Debug\MathLogic.pdb
+C:\Users\kira\Documents\Visual Studio 2013\Projects\SlottedNut\SlottedNut\obj\Debug\DataForm.csprojResolveAssemblyReference.cache
+C:\Users\kira\Documents\Visual Studio 2013\Projects\SlottedNut\SlottedNut\obj\Debug\SlottedNut.SlottedNutDataForm.resources
+C:\Users\kira\Documents\Visual Studio 2013\Projects\SlottedNut\SlottedNut\obj\Debug\SlottedNut.Properties.Resources.resources
+C:\Users\kira\Documents\Visual Studio 2013\Projects\SlottedNut\SlottedNut\obj\Debug\DataForm.csproj.GenerateResource.Cache
+C:\Users\kira\slottednut\SlottedNut\SlottedNut\bin\Debug\SlottedNut.exe.config
+C:\Users\kira\slottednut\SlottedNut\SlottedNut\obj\Debug\SlottedNut.exe
+C:\Users\kira\slottednut\SlottedNut\SlottedNut\obj\Debug\SlottedNut.pdb
+C:\Users\kira\slottednut\SlottedNut\SlottedNut\bin\Debug\SlottedNut.exe
+C:\Users\kira\slottednut\SlottedNut\SlottedNut\bin\Debug\SlottedNut.pdb
+C:\Users\kira\slottednut\SlottedNut\SlottedNut\bin\Debug\DataOrganizer.dll
+C:\Users\kira\slottednut\SlottedNut\SlottedNut\bin\Debug\Manager.dll
+C:\Users\kira\slottednut\SlottedNut\SlottedNut\bin\Debug\Model.dll
+C:\Users\kira\slottednut\SlottedNut\SlottedNut\bin\Debug\MathLogic.dll
+C:\Users\kira\slottednut\SlottedNut\SlottedNut\bin\Debug\DataOrganizer.pdb
+C:\Users\kira\slottednut\SlottedNut\SlottedNut\bin\Debug\Manager.pdb
+C:\Users\kira\slottednut\SlottedNut\SlottedNut\bin\Debug\Model.pdb
+C:\Users\kira\slottednut\SlottedNut\SlottedNut\bin\Debug\MathLogic.pdb
+C:\Users\kira\slottednut\SlottedNut\SlottedNut\obj\Debug\DataForm.csprojResolveAssemblyReference.cache
+C:\Users\kira\slottednut\SlottedNut\SlottedNut\obj\Debug\SlottedNut.SlottedNutDataForm.resources
+C:\Users\kira\slottednut\SlottedNut\SlottedNut\obj\Debug\SlottedNut.Properties.Resources.resources
+C:\Users\kira\slottednut\SlottedNut\SlottedNut\obj\Debug\DataForm.csproj.GenerateResource.Cache

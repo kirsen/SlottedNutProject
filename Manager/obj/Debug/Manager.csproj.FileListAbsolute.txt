@@ -1,0 +1,30 @@
+c:\users\kira\documents\visual studio 2013\Projects\SlottedNut\Manager\bin\Debug\Manager.dll
+c:\users\kira\documents\visual studio 2013\Projects\SlottedNut\Manager\bin\Debug\Manager.pdb
+c:\users\kira\documents\visual studio 2013\Projects\SlottedNut\Manager\obj\Debug\Manager.csprojResolveAssemblyReference.cache
+c:\users\kira\documents\visual studio 2013\Projects\SlottedNut\Manager\obj\Debug\Manager.dll
+c:\users\kira\documents\visual studio 2013\Projects\SlottedNut\Manager\obj\Debug\Manager.pdb
+c:\users\kira\documents\visual studio 2013\Projects\SlottedNut\Manager\bin\Debug\Model.dll
+c:\users\kira\documents\visual studio 2013\Projects\SlottedNut\Manager\bin\Debug\Model.pdb
+C:\Users\kira\Documents\Visual Studio 2013\Projects\SlottedNut\Manager\bin\Debug\DataOrganizer.dll
+C:\Users\kira\Documents\Visual Studio 2013\Projects\SlottedNut\Manager\bin\Debug\DataOrganizer.pdb
+C:\Users\kira\Documents\Visual Studio 2013\Projects\SlottedNut\Manager\obj\Debug\Interop.Kompas6API5.dll
+C:\Users\kira\Documents\Visual Studio 2013\Projects\SlottedNut\Manager\obj\Debug\Interop.Kompas6Constants.dll
+C:\Users\kira\Documents\Visual Studio 2013\Projects\SlottedNut\Manager\obj\Debug\Interop.Kompas6Constants3D.dll
+C:\Users\kira\Documents\Visual Studio 2013\Projects\SlottedNut\Manager\obj\Debug\Manager.csproj.ResolveComReference.cache
+C:\Users\kira\Documents\Visual Studio 2013\Projects\SlottedNut\Manager\bin\Debug\MathLogic.dll
+C:\Users\kira\Documents\Visual Studio 2013\Projects\SlottedNut\Manager\bin\Debug\MathLogic.pdb
+C:\Users\kira\slottednut\SlottedNut\Manager\bin\Debug\Manager.dll
+C:\Users\kira\slottednut\SlottedNut\Manager\bin\Debug\Manager.pdb
+C:\Users\kira\slottednut\SlottedNut\Manager\bin\Debug\DataOrganizer.dll
+C:\Users\kira\slottednut\SlottedNut\Manager\bin\Debug\Model.dll
+C:\Users\kira\slottednut\SlottedNut\Manager\bin\Debug\MathLogic.dll
+C:\Users\kira\slottednut\SlottedNut\Manager\bin\Debug\DataOrganizer.pdb
+C:\Users\kira\slottednut\SlottedNut\Manager\bin\Debug\Model.pdb
+C:\Users\kira\slottednut\SlottedNut\Manager\bin\Debug\MathLogic.pdb
+C:\Users\kira\slottednut\SlottedNut\Manager\obj\Debug\Manager.csprojResolveAssemblyReference.cache
+C:\Users\kira\slottednut\SlottedNut\Manager\obj\Debug\Interop.Kompas6API5.dll
+C:\Users\kira\slottednut\SlottedNut\Manager\obj\Debug\Interop.Kompas6Constants.dll
+C:\Users\kira\slottednut\SlottedNut\Manager\obj\Debug\Interop.Kompas6Constants3D.dll
+C:\Users\kira\slottednut\SlottedNut\Manager\obj\Debug\Manager.csproj.ResolveComReference.cache
+C:\Users\kira\slottednut\SlottedNut\Manager\obj\Debug\Manager.dll
+C:\Users\kira\slottednut\SlottedNut\Manager\obj\Debug\Manager.pdb

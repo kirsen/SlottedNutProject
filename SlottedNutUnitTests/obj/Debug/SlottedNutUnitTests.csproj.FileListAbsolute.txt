@@ -1,0 +1,30 @@
+C:\Users\kira\Documents\Visual Studio 2013\Projects\SlottedNut\SlottedNutUnitTests\bin\Debug\SlottedNutUnitTests.dll
+C:\Users\kira\Documents\Visual Studio 2013\Projects\SlottedNut\SlottedNutUnitTests\bin\Debug\SlottedNutUnitTests.pdb
+C:\Users\kira\Documents\Visual Studio 2013\Projects\SlottedNut\SlottedNutUnitTests\bin\Debug\DataOrganizer.dll
+C:\Users\kira\Documents\Visual Studio 2013\Projects\SlottedNut\SlottedNutUnitTests\bin\Debug\Model.dll
+C:\Users\kira\Documents\Visual Studio 2013\Projects\SlottedNut\SlottedNutUnitTests\bin\Debug\MathLogic.dll
+C:\Users\kira\Documents\Visual Studio 2013\Projects\SlottedNut\SlottedNutUnitTests\bin\Debug\DataOrganizer.pdb
+C:\Users\kira\Documents\Visual Studio 2013\Projects\SlottedNut\SlottedNutUnitTests\bin\Debug\Model.pdb
+C:\Users\kira\Documents\Visual Studio 2013\Projects\SlottedNut\SlottedNutUnitTests\bin\Debug\MathLogic.pdb
+C:\Users\kira\Documents\Visual Studio 2013\Projects\SlottedNut\SlottedNutUnitTests\obj\Debug\SlottedNutUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\kira\Documents\Visual Studio 2013\Projects\SlottedNut\SlottedNutUnitTests\obj\Debug\Interop.Kompas6API5.dll
+C:\Users\kira\Documents\Visual Studio 2013\Projects\SlottedNut\SlottedNutUnitTests\obj\Debug\Interop.Kompas6Constants.dll
+C:\Users\kira\Documents\Visual Studio 2013\Projects\SlottedNut\SlottedNutUnitTests\obj\Debug\Interop.Kompas6Constants3D.dll
+C:\Users\kira\Documents\Visual Studio 2013\Projects\SlottedNut\SlottedNutUnitTests\obj\Debug\SlottedNutUnitTests.csproj.ResolveComReference.cache
+C:\Users\kira\Documents\Visual Studio 2013\Projects\SlottedNut\SlottedNutUnitTests\obj\Debug\SlottedNutUnitTests.dll
+C:\Users\kira\Documents\Visual Studio 2013\Projects\SlottedNut\SlottedNutUnitTests\obj\Debug\SlottedNutUnitTests.pdb
+C:\Users\kira\slottednut\SlottedNut\SlottedNutUnitTests\bin\Debug\SlottedNutUnitTests.dll
+C:\Users\kira\slottednut\SlottedNut\SlottedNutUnitTests\bin\Debug\SlottedNutUnitTests.pdb
+C:\Users\kira\slottednut\SlottedNut\SlottedNutUnitTests\bin\Debug\DataOrganizer.dll
+C:\Users\kira\slottednut\SlottedNut\SlottedNutUnitTests\bin\Debug\MathLogic.dll
+C:\Users\kira\slottednut\SlottedNut\SlottedNutUnitTests\bin\Debug\Model.dll
+C:\Users\kira\slottednut\SlottedNut\SlottedNutUnitTests\bin\Debug\DataOrganizer.pdb
+C:\Users\kira\slottednut\SlottedNut\SlottedNutUnitTests\bin\Debug\MathLogic.pdb
+C:\Users\kira\slottednut\SlottedNut\SlottedNutUnitTests\bin\Debug\Model.pdb
+C:\Users\kira\slottednut\SlottedNut\SlottedNutUnitTests\obj\Debug\SlottedNutUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\kira\slottednut\SlottedNut\SlottedNutUnitTests\obj\Debug\Interop.Kompas6API5.dll
+C:\Users\kira\slottednut\SlottedNut\SlottedNutUnitTests\obj\Debug\Interop.Kompas6Constants.dll
+C:\Users\kira\slottednut\SlottedNut\SlottedNutUnitTests\obj\Debug\Interop.Kompas6Constants3D.dll
+C:\Users\kira\slottednut\SlottedNut\SlottedNutUnitTests\obj\Debug\SlottedNutUnitTests.csproj.ResolveComReference.cache
+C:\Users\kira\slottednut\SlottedNut\SlottedNutUnitTests\obj\Debug\SlottedNutUnitTests.dll
+C:\Users\kira\slottednut\SlottedNut\SlottedNutUnitTests\obj\Debug\SlottedNutUnitTests.pdb

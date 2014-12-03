@@ -1,0 +1,10 @@
+C:\Users\kira\Documents\Visual Studio 2013\Projects\SlottedNut\MathLogic\bin\Debug\MathLogic.dll
+C:\Users\kira\Documents\Visual Studio 2013\Projects\SlottedNut\MathLogic\bin\Debug\MathLogic.pdb
+C:\Users\kira\Documents\Visual Studio 2013\Projects\SlottedNut\MathLogic\obj\Debug\MathLogic.dll
+C:\Users\kira\Documents\Visual Studio 2013\Projects\SlottedNut\MathLogic\obj\Debug\MathLogic.pdb
+C:\Users\kira\Documents\Visual Studio 2013\Projects\SlottedNut\MathLogic\obj\Debug\MathLogic.csprojResolveAssemblyReference.cache
+C:\Users\kira\slottednut\SlottedNut\MathLogic\obj\Debug\MathLogic.dll
+C:\Users\kira\slottednut\SlottedNut\MathLogic\bin\Debug\MathLogic.dll
+C:\Users\kira\slottednut\SlottedNut\MathLogic\bin\Debug\MathLogic.pdb
+C:\Users\kira\slottednut\SlottedNut\MathLogic\obj\Debug\MathLogic.pdb
+C:\Users\kira\slottednut\SlottedNut\MathLogic\obj\Debug\MathLogic.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+c:\users\kira\documents\visual studio 2013\Projects\SlottedNut\DataOrganizer\bin\Debug\DataOrganizer.dll
+c:\users\kira\documents\visual studio 2013\Projects\SlottedNut\DataOrganizer\bin\Debug\DataOrganizer.pdb
+c:\users\kira\documents\visual studio 2013\Projects\SlottedNut\DataOrganizer\obj\Debug\DataOrganizer.dll
+c:\users\kira\documents\visual studio 2013\Projects\SlottedNut\DataOrganizer\obj\Debug\DataOrganizer.pdb
+C:\Users\kira\Documents\Visual Studio 2013\Projects\SlottedNut\DataOrganizer\obj\Debug\DataOrganizer.csprojResolveAssemblyReference.cache
+C:\Users\kira\slottednut\SlottedNut\DataOrganizer\bin\Debug\DataOrganizer.dll
+C:\Users\kira\slottednut\SlottedNut\DataOrganizer\bin\Debug\DataOrganizer.pdb
+C:\Users\kira\slottednut\SlottedNut\DataOrganizer\obj\Debug\DataOrganizer.dll
+C:\Users\kira\slottednut\SlottedNut\DataOrganizer\obj\Debug\DataOrganizer.pdb
